@@ -1,0 +1,1 @@
+frida --codeshare federicodotta/ios13-pinning-bypass -U -f com.ecomi.veve --no-pause -l bypass.js

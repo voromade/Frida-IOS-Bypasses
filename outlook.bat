@@ -1,0 +1,1 @@
+frida --codeshare federicodotta/ios13-pinning-bypass -U -f com.microsoft.Office.Outlook --no-pause
